@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+    <line>
+      <![CDATA[This test verifies the current selenium compatibility with TestNG by launching the chrome driver]]>
+    </line>
+    <line>
+      <![CDATA[Launching Google Chrome Driver for this test]]>
+    </line>
+    <line>
+      <![CDATA[SalesForce Login Page]]>
+    </line>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="5728" started-at="2022-07-27T13:12:04Z" finished-at="2022-07-27T13:12:10Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="5728" started-at="2022-07-27T13:12:04Z" finished-at="2022-07-27T13:12:10Z">
+      <class name="com.training.tests.ReportLog">
+        <test-method status="PASS" signature="OpenBrowser()[pri:1, instance:com.training.tests.ReportLog@12d3a4e9]" name="OpenBrowser" duration-ms="5671" started-at="2022-07-27T13:12:04Z" finished-at="2022-07-27T13:12:10Z">
+          <reporter-output>
+            <line>
+              <![CDATA[This test verifies the current selenium compatibility with TestNG by launching the chrome driver]]>
+            </line>
+            <line>
+              <![CDATA[Launching Google Chrome Driver for this test]]>
+            </line>
+            <line>
+              <![CDATA[SalesForce Login Page]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- OpenBrowser -->
+      </class> <!-- com.training.tests.ReportLog -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
