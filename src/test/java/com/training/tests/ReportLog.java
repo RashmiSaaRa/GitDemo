@@ -21,6 +21,8 @@ public class ReportLog {
 	        driver.get("https://login.salesforce.com/");
 	        
 	        Reporter.log("SalesForce Login Page");
+Reporter.log("Chcking git demo");
+Reporter.log("Upadting file for gitdemo");
 
 }
 }
