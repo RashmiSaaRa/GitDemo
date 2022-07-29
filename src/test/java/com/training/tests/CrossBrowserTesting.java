@@ -64,7 +64,9 @@ import io.github.bonigarcia.wdm.WebDriverManager;
 	Thread.sleep(4000);
 	}
 	
-	
+	public void teardown(){
+	driver.quit();
+}
 	
  }
 
